@@ -1,0 +1,27 @@
+# How to search for official website URL on google search and microsoft bing:
+25-12-2023
+
+0) METHOD 1 - TYPE THE NAME TWICE:
+ex. 1: if you want python's official website, type:
+python python
+
+ex. 2: if the term you want is composed of more than one word, type them sepparately:
+DO:
+casas bahia casas bahia
+DON'T:
+casasbahia casasbahia
+
+1) METHOD 2 - TYPE WIKIPEDIA + NAME:
+Wikipedia normally has official website information on the content box located on the right side of the screen.
+Of course, this could be manipulated, but even scammers normally don't think about changing the wikipedia page website info.
+This is particularly helpful to search for company software's official websites, specially now that URLs are becoming more and more flexible.
+
+2) CONJECTURE - USING ADDRESS BAR TO SEARCH (INSTEAD OF SEARCH BOX):
+# As of now, this is only a conjecture, but it seems searching terms in the address bar (url search box)
+# might yield different results than using the "proper" search bar (page's search box).
+# Another possibility might be that, after opening a new tab (Ctrl+T),
+# the first search is more likely to provide what you want.
+
+
+
+é nóis!
